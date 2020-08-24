@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Sharma 😄</h1>
-<h3 align="center">Bachelor of Technology in Computer Science & Engineering.</h3>
+<h3 align="center">B.E in Computer Science & Engineering.</h3>
 
 ### 🔭 I’m working on **Devops & Microservices.**.
 
