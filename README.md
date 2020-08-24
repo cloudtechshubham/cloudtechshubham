@@ -1,16 +1,14 @@
-### Hi 👋 I'm Shubham Sharma 
+<h1 align="center">Hi 👋, I'm Shubham Sharma 😄</h1>
+<h3 align="center">Bachelor of Technology in Computer Science & Engineering.</h3>
 
-<!--
-**cloudtechshubham/cloudtechshubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 I’m working on **Devops & Microservices.**.
 
-Here are some ideas to get you started:
+### 🌱 I'm currently focusing on CI/CD pipelines.**
 
-- 🔭 I’m currently working on Devops
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for Devops Engineer Position
-- 💬 Ask me about Devops & Aws Cloud. 
-- 📫 How to reach me: shubhamsharma03121997@gmail.com
-- 😄 linkedin: shubhamsharma
-- ⚡ Fun fact: ...
--->
+### 👯 I’m Currently looking for Permanent **Devops Engineer Position**
+
+### 💬 Ask me about: **AWS Cloud & Devops **
+
+### 📫 How to reach me🤔 **shubh031997@yahoo.com**
+### LinkedIn: https://linkedin.com/in/shubhamshrma 
+
